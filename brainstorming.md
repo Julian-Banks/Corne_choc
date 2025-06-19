@@ -41,15 +41,17 @@ use a Pro Micro microcontroller and QMK is used for the firmware.
 
 Pros:
 - Seems to be more standard?
+  
 Cons:
 - ? 
 
 ### Wireless
 Use a Nice!Nano (v2 has built in charging) and ZMK is used for firmware. 
 
-Pros:
+**Pros:**
 - Fucken wireless!
-Cons: 
+  
+**Cons**: 
 - less out there with info on it? 
 - LEDs may be a big power drain and not really be worth it.
 
