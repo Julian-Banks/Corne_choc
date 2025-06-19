@@ -1,2 +1,2 @@
-# Corne_v4_choc
-My Corne V4 Choc build
+# Corne_choc
+Corne Choc build
