@@ -39,44 +39,44 @@ Cons:
 ### Electrical Parts
 
 |Part| Specific Part | Link | QTY | Cost | Notes |
-| --- | --- | --- | --- |
-|MicroController|
-|MicroController headers| 
-|PCB| 
-|Switches| 
-|Key Caps| 
-|Diodes|
-|OLED display|
-|OLED headers|
-|Under key LEDS|
-|Under glow LEDS|
-|Reset Buttons|
+| --- | ---          | ---  | --- | --- | --- | 
+|MicroController|    |     |     |     |     |
+|MicroController headers|     |     |     |     |     |
+|PCB|     |     |     |     |     |
+|Switches|     |     |     |     |     |
+|Key Caps|     |     |     |     |     |
+|Diodes|    |     |     |     |     |
+|OLED display|    |     |     |     |     |
+|OLED headers|    |     |     |     |     |
+|Under key LEDS|    |     |     |     |     |
+|Under glow LEDS|    |     |     |     |     |
+|Reset Buttons|    |     |     |     |     |
 
 #### Wireless Specific
 |Part| Specific Part | Link | QTY | Cost | Notes |
-| --- | --- | --- | --- |
-|Battery|
-|Power Switches|
-|Battery Connector|
+| --- | --- | --- | --- | --- | --- |
+|Battery|    |     |     |     |     |
+|Power Switches|    |     |     |     |     |
+|Battery Connector|    |     |     |     |     |
 
 #### Wired Specific
 |Part| Specific Part | Link | QTY | Cost | Notes |
-| --- | --- | --- | --- |
-|USB-C cable|
-|TRRS Jack|
-|TRRS cable|
+| --- | --- | --- | --- | --- | --- |
+|USB-C cable|    |     |     |     |     |
+|TRRS Jack|    |     |     |     |     |
+|TRRS cable|    |     |     |     |     |
 
 
 ### Mechanical Parts
 Defined based off what type of PCB I order? 
 
 |Part| Specific Part | Link | QTY | Cost | Notes |
-| --- | --- | --- | --- |
-| Case |
-| top Plate|
-|Switch Plate|
-|Standoffs + Screws|
-|Threaded Inserts|
+| --- | --- | --- | --- | --- | --- | 
+| Case |    |     |     |     |     |
+| top Plate|    |     |     |     |     |
+|Switch Plate|    |     |     |     |     |
+|Standoffs + Screws|    |     |     |     |     |
+|Threaded Inserts|    |     |     |     |     |
 
 
 
