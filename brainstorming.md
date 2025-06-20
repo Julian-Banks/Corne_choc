@@ -9,7 +9,7 @@ The baseline decisions:
 - **OLED**: Yes 
 - **Hotswap sockets**: Maybe Idk 
 
-Official corne choc docs: [github docs] (https://github.com/foostan/crkbd/tree/main/docs/corne-chocolate)
+Official corne choc docs: [github docs](https://github.com/foostan/crkbd/tree/main/docs/corne-chocolate)
 
 ## Type & Switch 
 I am pretty happy with Corne. I think the 6 Col format seems safer than the 5 col? 
@@ -47,6 +47,10 @@ Cons:
 
 ### Wireless
 Use a Nice!Nano (v2 has built in charging) and ZMK is used for firmware. 
+
+Microcontroller options:
+- [Supermini nRF52840](https://www.reddit.com/r/ErgoMechKeyboards/comments/16q5b2c/supermini_nrf52840_a_6_nicenano_20_compatible_mcu/)
+- 
 
 **Pros:**
 - Fucken wireless!
