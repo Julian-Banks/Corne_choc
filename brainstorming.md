@@ -50,7 +50,7 @@ Use a Nice!Nano (v2 has built in charging) and ZMK is used for firmware.
 
 Microcontroller options:
 - [Supermini nRF52840](https://www.reddit.com/r/ErgoMechKeyboards/comments/16q5b2c/supermini_nrf52840_a_6_nicenano_20_compatible_mcu/)
-- 
+- [Alternatives (man I love opensource)](https://github.com/joric/nrfmicro/wiki/Alternatives) 
 
 **Pros:**
 - Fucken wireless!
