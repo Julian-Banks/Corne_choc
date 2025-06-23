@@ -1,67 +1,47 @@
 # Alrighty where to start?
 
 The baseline decisions: 
-- **Type**: corne
+- **Type**: Corne
 - **Switch**: Chocolate
-- **Version**: V2 or V4 ? I can't find much on the differences?  
-- **Leds**: Yes 
-- **Wireless**: Maybe but I think yes 
+- **PCB**: [Choc spaced Wireless Corne](https://github.com/davidphilipbarr/Choc-Spaced-Corne/tree/main/chocorne-switch)  
+- **Leds**: Probably not because we are going wireless
+- **Wireless**: Yes 
 - **OLED**: Yes 
-- **Hotswap sockets**: Maybe Idk 
+- **Hotswap sockets**: Maybe Idk
+- **Switchs**:
+- **Keycaps**:
 
+## Guides and docs
 Official corne choc docs: [github docs](https://github.com/foostan/crkbd/tree/main/docs/corne-chocolate)
-
-## Type & Switch 
-I am pretty happy with Corne. I think the 6 Col format seems safer than the 5 col? 
-
-## Version
-I can't find much documentation about the difference between these two versions... 
-
-### V2
-According to GPT: 
-- Original Choc only compatible  
-
-### V4
-According to GPT:
-- MX and Choc compatible
-
-## LEDS
-
-I don't see why not, always cool to make stuff light up. 
-
-Only concern is power draw if going wireless. 
+Build Guide inspiration:
+[Choc Spaced Corne Keyboard - Wireless](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-choc-spaced-switch.md)
 
 
-## Wireless vs Wired 
+## Dumping info about parts
+### PCB
+- [This board](https://github.com/davidphilipbarr/Choc-Spaced-Corne/tree/main/chocorne-switch) by davidphilipbarr looks good. it is a wireless choc spaced corne so pretty much fits the bill. I've found it referenced in a couple threads and it is used in the build guide I linked at the top so I'm pretty sure it will work. the only thing I don't like is the battery is soldered on. I like having a clip. but thats a small edit I'm sure I could make :). 
+- There are the foostan/crkbd original PCB's but they aren't wireless. [foostan chocs](https://github.com/foostan/crkbd/tree/main/docs/corne-chocolate)
 
-I really like the idea of wireless. 
+### MicroController
 
-### Wired
-use a Pro Micro microcontroller and QMK is used for the firmware.
-
-Pros:
-- Seems to be more standard?
-  
-Cons:
-- ? 
-
-### Wireless
 Use a Nice!Nano (v2 has built in charging) and ZMK is used for firmware. 
 
-Microcontroller options:
+**Nice!Nano** 
+- standard option, documented and will work
+- spenny ($24 each plus shipping)
+
+**SuperMini NRF52840**
+- Cheap! $3-5 each 
+- Well documented as far as cheap chinese alternatives go!
 - [Supermini nRF52840](https://www.reddit.com/r/ErgoMechKeyboards/comments/16q5b2c/supermini_nrf52840_a_6_nicenano_20_compatible_mcu/)
 - [Alternatives (man I love nerd community)](https://github.com/joric/nrfmicro/wiki/Alternatives) 
-
-**Pros:**
-- Fucken wireless!
   
-**Cons**: 
-- less out there with info on it? 
-- LEDs may be a big power drain and not really be worth it.
-
-## OLED
-
+### OLED
 Yes just cause it's pretty freaking cool. 
+
+### Switches 
+
+### Keycaps
 
 # Rough BOM 
 
