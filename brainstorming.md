@@ -47,6 +47,11 @@ I think Red makes sense, most similar to my laptop, I don't like loud keyboards.
 ### Keycaps
 [3d Print them myself?](https://www.printables.com/model/1066117-choc-louder-keycaps-choc-and-mx-spacing/files)
 Low profile and choc spaced, definitely preferable. 
+[3d Resin printed](https://www.thingiverse.com/thing:4862025)
+
+### Case 
+[Nice slim look](https://www.printables.com/model/416378-wireless-corne-case)
+
 # Rough BOM 
 
 ### Electrical Parts
