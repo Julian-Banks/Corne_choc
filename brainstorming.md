@@ -63,7 +63,7 @@ Low profile and choc spaced, definitely preferable.
 |PCB|     |     |     |     |     |
 |Switches|  Kailh Choc V2 Low Profile Switch 1353 ?red?   |     |     |     |     |
 |Key Caps|     |     |     |     |     |
-|Diodes|    |     |     |     |     |
+|Diodes|  [aliexpress](https://www.aliexpress.com/item/32921490945.html)  |     |     |     |     |
 |OLED display|    |     |     |     |     |
 |OLED headers|    |     |     |     |     |
 |Under key LEDS|    |     |     |     |     |
@@ -73,8 +73,8 @@ Low profile and choc spaced, definitely preferable.
 #### Wireless Specific
 |Part| Specific Part | Link | QTY | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
-|Battery|    |     |     |     |     |
-|Power Switches|    |     |     |     |     |
+|Battery|    | [DIY Electronics](https://www.diyelectronics.co.za/store/li-ion-li-po/6707-lipo-battery-37v-120mah-25x24x35mm-1c-1cell-with-ph20-connector.html?utm_campaign=google_shopping&utm_source=cpc&utm_medium=evergreen&utm_content=20485427402&gad_source=1&gad_campaignid=20489613595&gbraid=0AAAAADpm0I_3Nl-iDJVU4pgUnMGT22i95&gclid=CjwKCAjw2brFBhBOEiwAVJX5GM455BFd-ZcLSl2H0kspv53c7jLLApUWdxjkVHyDToH3SXGaemceBBoC-U8QAvD_BwE)    |     |   2  |  68   |
+|Power Switches|    |  [switch]h(ttps://www.aliexpress.com/item/1005003829889015.html)   |  1   |  R1  |     |
 |Battery Connector|    |     |     |     |     |
 
 #### Wired Specific
