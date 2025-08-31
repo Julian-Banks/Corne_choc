@@ -44,6 +44,8 @@ Low profile and choc spaced
 ### Case 
 [Nice slim look](https://www.printables.com/model/416378-wireless-corne-case)
 
+[chocoflan case](https://www.printables.com/model/1020389-wireless-corne-chocoflan-minimal-keyboard-case/files)
+
 # Rough BOM 
 
 ### Electrical Parts
