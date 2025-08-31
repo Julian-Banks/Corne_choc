@@ -2,14 +2,13 @@
 
 The baseline decisions: 
 - **Type**: Corne
-- **Switch**: Chocolate
+- **Switch**: Choc V2 (ghost,white rain, black cloud)
 - **PCB**: [Choc spaced Wireless Corne](https://github.com/davidphilipbarr/Choc-Spaced-Corne/tree/main/chocorne-switch)  
 - **Leds**: Probably not because we are going wireless
 - **Wireless**: Yes 
 - **OLED**: Yes 
-- **Hotswap sockets**: Maybe Idk
-- **Switchs**:
-- **Keycaps**:
+- **Hotswap sockets**:  Yes
+- **Keycaps**: Some cheap blanks
 
 ## Guides and docs
 Official corne choc docs: [github docs](https://github.com/foostan/crkbd/tree/main/docs/corne-chocolate)
@@ -17,12 +16,6 @@ Official corne choc docs: [github docs](https://github.com/foostan/crkbd/tree/ma
 Build Guide inspiration (V1 keycaps, no Hotswap): [Choc Spaced Corne Keyboard - Wireless](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-choc-spaced-switch.md)
 
 Blog with Chocoflan board: [some dudes blog](https://sascha.sh/posts/i-built-another-mechanical-keyboard/)
-
-## Dumping info about parts
-### PCB
-- [This board](https://github.com/davidphilipbarr/Choc-Spaced-Corne/tree/main/chocorne-switch) by davidphilipbarr looks good. it is a wireless choc spaced corne so pretty much fits the bill. I've found it referenced in a couple threads and it is used in the build guide I linked at the top so I'm pretty sure it will work. the only thing I don't like is the battery is soldered on. I like having a clip. but thats a small edit I'm sure I could make :).
-- I need to make sure that this board is choc spaced!
-- There are the foostan/crkbd original PCB's but they aren't wireless. [foostan chocs](https://github.com/foostan/crkbd/tree/main/docs/corne-chocolate)
 
 ### MicroController
 
