@@ -59,15 +59,15 @@ Low profile and choc spaced, definitely preferable.
 |Part| Specific Part | Link | QTY | Cost | Notes |
 | --- | ---          | ---  | --- | --- | --- | 
 |MicroController|  Supermini nRF52840  |     |  2   |  86 (plus shipping and tax)   |   Cheap alternative to the Nice!Nano  |
-|MicroController headers|     |     |     |     |     |
-|PCB|     |     |     |     |     |
+|MicroController headers|     |  [aliexpress](https://www.aliexpress.com/item/32896689725.html?spm=a2g0o.cart.0.0.105238dah5uKsy&mp=1&pdp_npi=5%40dis%21ZAR%21ZAR%20165.63%21ZAR%2072.58%21%21ZAR%2072.58%21%21%21%40211b6c1917566326860124625e79d0%2112000045923311097%21ct%21ZA%214710544376%21%211%210)   | 10*40pin = 400pins    |  72   |     |
+|PCB|  corne chocoflan    |  [repo](https://github.com/ergomechstore/Corne-chocoflan?tab=readme-ov-file)    |  5 pairs    |   600?  |     |
 |Switches|  Kailh Choc V2 Low Profile Switch 1353 ?red?   |     |     |     |     |
 |Hot Swap Sockets|  Kailh Choc sockets   |   [aliexpress](https://www.aliexpress.com/item/1005008954571807.html?spm=a2g0o.cart.0.0.458738daAWVxOu&mp=1&sourceType=562&pdp_npi=5%40dis%21ZAR%21ZAR%20434.46%21ZAR%20212.89%21%21ZAR%20212.89%21%21%21%40211b6c1917566324998737892e79d0%2112000047352129245%21ct%21ZA%214710544376%21%212%210)  |   220  |  212   |     |
 |Key Caps|     |     |     |     |     |
-|Diodes|  [aliexpress](https://www.aliexpress.com/item/32921490945.html)  |     |     |     |     |
-|OLED display| [aliexpress](https://www.aliexpress.com/item/1005008640132638.html?spm=a2g0o.cart.0.0.458738daAWVxOu&mp=1&pdp_npi=5%40dis%21ZAR%21ZAR%20352.29%21ZAR%20240.63%21%21ZAR%20240.63%21%21%21%40211b6c1917566324998737892e79d0%2112000046056501836%21ct%21ZA%214710544376%21%211%210)    |     |   10  |   240  |     |
+|Diodes| 1N4148W SMD diodes | [aliexpress](https://www.aliexpress.com/item/32921490945.html) |     |     |     |
+|OLED display| SSD1306 | [aliexpress](https://www.aliexpress.com/item/1005008640132638.html?spm=a2g0o.cart.0.0.458738daAWVxOu&mp=1&pdp_npi=5%40dis%21ZAR%21ZAR%20352.29%21ZAR%20240.63%21%21ZAR%20240.63%21%21%21%40211b6c1917566324998737892e79d0%2112000046056501836%21ct%21ZA%214710544376%21%211%210)  |   10  |   240  |     |
 | On/off switch |      |  [aliexpress](https://www.aliexpress.com/item/1005003829889015.html?spm=a2g0o.detail.0.0.6d14Az5XAz5X6H&mp=1&pdp_npi=5%40dis%21ZAR%21ZAR%20130.25%21ZAR%2074.42%21%21ZAR%2074.42%21%21%21%40211b876717566333507813224ef2ed%2112000027292033666%21ct%21ZA%214710544376%21%211%210)    |  20   |   75  |     |
-|Reset Buttons| Momentery push buttons   |  [aliexpress](https://www.aliexpress.com/item/1005001629184984.html?spm=a2g0o.cart.0.0.105238dah5uKsy&mp=1&pdp_npi=5%40dis%21ZAR%21ZAR%20129.75%21ZAR%2036.70%21%21ZAR%2036.70%21%21%21%40211b6c1917566326860124625e79d0%2112000029858778458%21ct%21ZA%214710544376%21%211%210)   | 50    |  36.7   |     |
+|Reset Buttons| Momentery push buttons   |  [aliexpress](https://www.aliexpress.com/item/1005002201965659.html?spm=a2g0o.productlist.main.2.398f74d6NCG9Mu&algo_pvid=e2d2d9f1-23a4-4dc5-af7e-709c47e911fd&algo_exp_id=e2d2d9f1-23a4-4dc5-af7e-709c47e911fd-1&pdp_ext_f=%7B%22order%22%3A%225%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21ZAR%2113.40%2113.21%21%21%210.72%210.71%21%402103864c17566391202706722ec892%2112000019260123904%21sea%21ZA%214710544376%21ACX%211%210%21n_tag%3A-29919%3Bd%3A54ca946f%3Bm03_new_user%3A-29894&curPageLogUid=0P5rhDvrknL9&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002201965659%7C_p_origin_prod%3A)   | 100    |  30   |     |
 
 #### Wireless Specific
 |Part| Specific Part | Link | QTY | Cost | Notes |
