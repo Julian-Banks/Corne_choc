@@ -62,13 +62,12 @@ Low profile and choc spaced, definitely preferable.
 |MicroController headers|     |     |     |     |     |
 |PCB|     |     |     |     |     |
 |Switches|  Kailh Choc V2 Low Profile Switch 1353 ?red?   |     |     |     |     |
+|Hot Swap Sockets|  Kailh Choc sockets   |   [aliexpress](https://www.aliexpress.com/item/1005008954571807.html?spm=a2g0o.cart.0.0.458738daAWVxOu&mp=1&sourceType=562&pdp_npi=5%40dis%21ZAR%21ZAR%20434.46%21ZAR%20212.89%21%21ZAR%20212.89%21%21%21%40211b6c1917566324998737892e79d0%2112000047352129245%21ct%21ZA%214710544376%21%212%210)  |   220  |  212   |     |
 |Key Caps|     |     |     |     |     |
 |Diodes|  [aliexpress](https://www.aliexpress.com/item/32921490945.html)  |     |     |     |     |
-|OLED display|    |     |     |     |     |
-|OLED headers|    |     |     |     |     |
-|Under key LEDS|    |     |     |     |     |
-|Under glow LEDS|    |     |     |     |     |
-|Reset Buttons|    |     |     |     |     |
+|OLED display| [aliexpress](https://www.aliexpress.com/item/1005008640132638.html?spm=a2g0o.cart.0.0.458738daAWVxOu&mp=1&pdp_npi=5%40dis%21ZAR%21ZAR%20352.29%21ZAR%20240.63%21%21ZAR%20240.63%21%21%21%40211b6c1917566324998737892e79d0%2112000046056501836%21ct%21ZA%214710544376%21%211%210)    |     |   10  |   240  |     |
+| On/off switch |      |  [aliexpress](https://www.aliexpress.com/item/1005003829889015.html?spm=a2g0o.detail.0.0.6d14Az5XAz5X6H&mp=1&pdp_npi=5%40dis%21ZAR%21ZAR%20130.25%21ZAR%2074.42%21%21ZAR%2074.42%21%21%21%40211b876717566333507813224ef2ed%2112000027292033666%21ct%21ZA%214710544376%21%211%210)    |  20   |   75  |     |
+|Reset Buttons| Momentery push buttons   |  [aliexpress](https://www.aliexpress.com/item/1005001629184984.html?spm=a2g0o.cart.0.0.105238dah5uKsy&mp=1&pdp_npi=5%40dis%21ZAR%21ZAR%20129.75%21ZAR%2036.70%21%21ZAR%2036.70%21%21%21%40211b6c1917566326860124625e79d0%2112000029858778458%21ct%21ZA%214710544376%21%211%210)   | 50    |  36.7   |     |
 
 #### Wireless Specific
 |Part| Specific Part | Link | QTY | Cost | Notes |
