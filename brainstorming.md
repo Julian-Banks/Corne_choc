@@ -13,9 +13,10 @@ The baseline decisions:
 
 ## Guides and docs
 Official corne choc docs: [github docs](https://github.com/foostan/crkbd/tree/main/docs/corne-chocolate)
-Build Guide inspiration:
-[Choc Spaced Corne Keyboard - Wireless](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-choc-spaced-switch.md)
 
+Build Guide inspiration (V1 keycaps, no Hotswap): [Choc Spaced Corne Keyboard - Wireless](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-choc-spaced-switch.md)
+
+Blog with Chocoflan board: [some dudes blog](https://sascha.sh/posts/i-built-another-mechanical-keyboard/)
 
 ## Dumping info about parts
 ### PCB
@@ -24,8 +25,6 @@ Build Guide inspiration:
 - There are the foostan/crkbd original PCB's but they aren't wireless. [foostan chocs](https://github.com/foostan/crkbd/tree/main/docs/corne-chocolate)
 
 ### MicroController
-
-Use a Nice!Nano (v2 has built in charging) and ZMK is used for firmware. 
 
 **Nice!Nano** 
 - standard option, documented and will work
@@ -46,7 +45,7 @@ Yes just cause it's pretty freaking cool.
 I think Red makes sense, most similar to my laptop, I don't like loud keyboards. idk. 
 ### Keycaps
 [3d Print them myself?](https://www.printables.com/model/1066117-choc-louder-keycaps-choc-and-mx-spacing/files)
-Low profile and choc spaced, definitely preferable. 
+Low profile and choc spaced
 [3d Resin printed](https://www.thingiverse.com/thing:4862025)
 
 ### Case 
@@ -70,21 +69,7 @@ Low profile and choc spaced, definitely preferable.
 |OLED display| SSD1306 | [aliexpress](https://www.aliexpress.com/item/1005008640132638.html?spm=a2g0o.cart.0.0.458738daAWVxOu&mp=1&pdp_npi=5%40dis%21ZAR%21ZAR%20352.29%21ZAR%20240.63%21%21ZAR%20240.63%21%21%21%40211b6c1917566324998737892e79d0%2112000046056501836%21ct%21ZA%214710544376%21%211%210)  |   10  |   240  |     |
 | On/off switch |      |  [aliexpress](https://www.aliexpress.com/item/1005003829889015.html?spm=a2g0o.detail.0.0.6d14Az5XAz5X6H&mp=1&pdp_npi=5%40dis%21ZAR%21ZAR%20130.25%21ZAR%2074.42%21%21ZAR%2074.42%21%21%21%40211b876717566333507813224ef2ed%2112000027292033666%21ct%21ZA%214710544376%21%211%210)    |  20   |   75  |     |
 |Reset Buttons| Momentery push buttons   |  [aliexpress](https://www.aliexpress.com/item/1005002201965659.html?spm=a2g0o.productlist.main.2.398f74d6NCG9Mu&algo_pvid=e2d2d9f1-23a4-4dc5-af7e-709c47e911fd&algo_exp_id=e2d2d9f1-23a4-4dc5-af7e-709c47e911fd-1&pdp_ext_f=%7B%22order%22%3A%225%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21ZAR%2113.40%2113.21%21%21%210.72%210.71%21%402103864c17566391202706722ec892%2112000019260123904%21sea%21ZA%214710544376%21ACX%211%210%21n_tag%3A-29919%3Bd%3A54ca946f%3Bm03_new_user%3A-29894&curPageLogUid=0P5rhDvrknL9&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002201965659%7C_p_origin_prod%3A)   | 100    |  30   |     |
-
-#### Wireless Specific
-|Part| Specific Part | Link | QTY | Cost | Notes |
-| --- | --- | --- | --- | --- | --- |
 |Battery|    | [DIY Electronics](https://www.diyelectronics.co.za/store/li-ion-li-po/6707-lipo-battery-37v-120mah-25x24x35mm-1c-1cell-with-ph20-connector.html?utm_campaign=google_shopping&utm_source=cpc&utm_medium=evergreen&utm_content=20485427402&gad_source=1&gad_campaignid=20489613595&gbraid=0AAAAADpm0I_3Nl-iDJVU4pgUnMGT22i95&gclid=CjwKCAjw2brFBhBOEiwAVJX5GM455BFd-ZcLSl2H0kspv53c7jLLApUWdxjkVHyDToH3SXGaemceBBoC-U8QAvD_BwE)    |     |   2  |  68   |
-|Power Switches|    |  [switch]h(ttps://www.aliexpress.com/item/1005003829889015.html)   |  1   |  R1  |     |
-|Battery Connector|    |     |     |     |     |
-
-#### Wired Specific
-|Part| Specific Part | Link | QTY | Cost | Notes |
-| --- | --- | --- | --- | --- | --- |
-|USB-C cable|    |     |     |     |     |
-|TRRS Jack|    |     |     |     |     |
-|TRRS cable|    |     |     |     |     |
-
 
 ### Mechanical Parts
 Defined based off what type of PCB I order? 
