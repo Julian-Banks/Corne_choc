@@ -46,6 +46,9 @@ Low profile and choc spaced
 
 [chocoflan case](https://www.printables.com/model/1020389-wireless-corne-chocoflan-minimal-keyboard-case/files)
 
+[Carry Case, very profess look](https://www.printables.com/model/544127-wireless-corne-choc-v2-case-with-travel-box/files)
+[Has an OLED cover](https://www.printables.com/model/441819-wireless-corne-case-5x3-typeractive)
+
 # Rough BOM 
 
 ### Electrical Parts
